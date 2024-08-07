@@ -1,0 +1,17 @@
+.botonesA:hover{
+    color: #005CA9;
+    cursor:pointer;
+}
+
+.botonesB:hover{
+    background-color:lightgrey;
+    cursor:pointer;
+}
+.boton1:hover{
+    background-color:lightgrey;
+    cursor:pointer;
+}
+.boton2:hover{
+    background-color:lightgrey;
+    cursor:pointer;
+}
